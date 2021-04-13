@@ -37,24 +37,28 @@
 <a href="https://github.com/promisemee">
     <img src="https://github.com/promisemee.png"
     width="100">
+</a>
 <a href="https://github.com/kms2698">
     <img src="https://github.com/kms2698.png"
     width="100">
+</a>
 <a href="https://github.com/dury008">
     <img src="https://github.com/dury008.png"
     width="100"> 
+</a>
 <a href="https://github.com/sejin1031">
     <img src="https://github.com/sejin1031.png"
-    width="100">    
+    width="100">  
+</a>  
 <a href="https://github.com/ji-hun-choi">
     <img src="https://github.com/ji-hun-choi.png"
-    width="100">       
+    width="100">
+</a>       
 </p>
 
-김다인 김민상 박진혁 엄세진 최지훈
+        김다인 김민상 박진혁 엄세진 최지훈
 
 ---
-
 ### 2021.03.16
 ### Week 3
 
@@ -188,7 +192,7 @@
    1. 정해진 기준으로 데이터 정제후 깃허브 업로드
    2. 전부 업로드 되면 병합
    3. 데이터 어떻게 시각화 해서 보여줄지 생각
-
+---
 ### 2021.04.13
 ### Week 7
 1. 중요 속성 추출

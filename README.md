@@ -211,4 +211,5 @@
 ### 2021.04.20
 ### Week 8
 1. 발표
+   - [참고자료](https://github.com/kms2698/diabetes-analysys_topgap/blob/main/%EC%B0%B8%EA%B3%A0%EC%9E%90%EB%A3%8C/%EC%A4%91%EC%9A%94%EC%86%8D%EC%84%B1%EC%B6%94%EC%B6%9C%EC%B0%B8%EA%B3%A0.md)
     
